@@ -3,7 +3,6 @@ title: NotFoundPage
 tags:
   - plugin/emitter
 ---
-
 This plugin emits a 404 (Not Found) page for broken or non-existent URLs.
 
 > [!note]
