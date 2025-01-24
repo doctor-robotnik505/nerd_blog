@@ -13,10 +13,10 @@ tags:
 **Дата рождения:** 08.10.2008
 
 Не стесняйтесь заходить в другие соцсети и писать: 
-![[2025-01-24 20.54.55.png|15]] Teletype: https://teletype.in/@tigran505
-![[Pasted image 20250124202626.png|12]] Telegram: [@tigran_chem](https://t.me/tigran_chem)
-![[sonbVGVJ3uXBH2j0Xq47UUAPsXSb2DkiYLbMVrWMpb4uGQSBzvfBqPXGe3IbHJwFbOI0WqwcioowB291NhjWutWf.png|15]]Email: t.sargsyan2021@vk.com
-![[free-icon-vk-5968835.png|15]] ВКонтакте: https://vk.com/t.sargsyan2008
+- ![[2025-01-24 20.54.55.png|15]] Teletype: https://teletype.in/@tigran505
+- ![[Pasted image 20250124202626.png|15]] Telegram: [@tigran_chem](https://t.me/tigran_chem)
+- ![[sonbVGVJ3uXBH2j0Xq47UUAPsXSb2DkiYLbMVrWMpb4uGQSBzvfBqPXGe3IbHJwFbOI0WqwcioowB291NhjWutWf.png|15]]Email: t.sargsyan2021@vk.com
+- ![[free-icon-vk-5968835.png|15]] ВКонтакте: https://vk.com/t.sargsyan2008
 
 На любых языках из списка: 
 🇷🇺 Русский (носитель)
