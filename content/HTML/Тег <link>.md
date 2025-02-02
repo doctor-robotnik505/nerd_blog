@@ -1,11 +1,11 @@
 #Программирование 
 - Используется для подключения внешних ресурсов
-	- Файлы [[CSS]]
+	- Файлы CSS
 	- Фавиконки
-	- Шрифт
+	- Шрифты
 - Обычно размещается внутри [[Тег <head>]]
 ```html
-<link rel="stylesheet" href="css/styles.css">
+<link rel="stylesheet" href="styles.css">
 <link rel="icon" href="favicon.ico" type="image/x-icon">
 ```
 ## Атрибуты

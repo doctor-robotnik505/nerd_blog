@@ -103,19 +103,8 @@ function helloWorld() {
 ```
 ## Ссылки
 - Для добавления гиперссылок используется тег a
-	- _ blank - открывает ссылку в новой вкладке
-	- _ self - открывает ссылку в той же самой вкладке 
 ```html
-<a href="doctor-robotnik505.github.io/nerd" title="Нажми на меня" target ="_blank">Перейти на сайт</a>
-
-<a href="about.html">Перейти на страницу о нас</a>
-
-<a href="mailto:t.sargsyan2021@vk.com">Написать на почту</a>
-```
-### Якоря
-```html
-<a href="#bottomOfPage">Вниз</a>
-<a name="bottomOfPage"></a>
+<a href="doctor-robotnik505.github.io/nerd">Перейти на сайт</a>
 ```
 ## Выделение текста
 - Выделение текста (обычно жёлтым текстом)
@@ -146,10 +135,4 @@ function helloWorld() {
 ```html
 Сейчаc мы будем заниматься <big>созданием сайта</big><br>
 Гамбол, Дарвин, Анаис, Ричард, Николь <small>и другие действующие лица</small>
-```
-## Изображения
-- alt - альтернативный текст для поисковых роботов/случая, если изображение не загрузится 
-- Ширина width обязательна, height высота по желанию 
-```html
-<img src="https://tse1.mm.bing.net/th?id=OIP.X9ZldPWwy79ZcpHqN86y9AHaKc&pid=15.1" width="100px" height="150px" title="click me" alt="Зак Уоттерсон">
 ```
