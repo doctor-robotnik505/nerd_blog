@@ -1,0 +1,11 @@
+#Программирование 
+## [[Свойство color]]  
+## [[Свойство text-align]] 
+## [[Свойство text-transorfm]] 
+## [[Свойство letter-spacing]] 
+## [[Свойство line-height]] 
+## [[Свойство word-spacing]] 
+## [[Свойство font-family]] 
+## [[Свойство font-size]]
+## [[Свойство font-style]] 
+## [[Свойство font-weight]] 
