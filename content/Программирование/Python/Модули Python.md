@@ -8,3 +8,32 @@
 import math
 ```
 ## [[Модуль math]]
+## Создание модуля 
+1. Создаём пустой файл в проекте (`my-module.py`)
+2. Импортируем его 
+```python
+# Основной файл example.py
+import my_module as my # Переименование модуля 
+print(my.some) # Выводим только переменную
+result = my.summ(5, 8, 12, 10)
+print(result)
+print(my.summ(4, 7, 11, 9))
+```
+- [[Функции с неопределённым количеством параметров]]
+```python
+# Модуль my-module.py
+if __name__ == "__main__": # Проверка на то, что файл запускается именно самостоятельно, а не через модуль
+	print("Hi")
+some = 12
+def printSome(str):
+	print("Результат", str)
+def summ(*args):
+	summa = 0
+	for x in args:
+		summa += 1
+return summa
+```
+## Импортирование части модуля 
+```python
+from my_module import printSome, some # Импорт функции и переменной
+```

@@ -3,7 +3,7 @@
 ```python
 def summ(a, b, c):
     # summa = a + b + c
-    # return summa
+    return summa
     pass
 
 x = summ(5, 0, 5)
